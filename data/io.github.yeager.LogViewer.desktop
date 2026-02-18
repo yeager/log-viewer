@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Log Viewer
+Comment=GTK4 journalctl frontend
+Exec=log-viewer
+Icon=io.github.yeager.LogViewer
+Terminal=false
+Type=Application
+Categories=System;Utility;
