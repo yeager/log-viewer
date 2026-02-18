@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[o:danielnylander:p:log-viewer:r:log-viewer-pot]
+file_filter = po/<lang>.po
+source_file = po/log-viewer.pot
+source_lang = en
+type = PO
