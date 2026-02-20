@@ -235,7 +235,7 @@ class LogViewerWindow(Adw.ApplicationWindow):
             comments=_("GTK4 journalctl frontend"),
         )
         about.add_link(_("Translations"), "https://www.transifex.com/danielnylander/log-viewer")
-        about.present()
+        about.present(self)
 
 
 class LogViewerApp(Adw.Application):
