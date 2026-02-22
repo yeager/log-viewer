@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-18 10:19+0100\n"
+"POT-Creation-Date: 2026-02-22 06:25+0100\n"
 "PO-Revision-Date: 2026-02-18 09:21+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/304966/sv/)\n"
@@ -21,78 +21,104 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/log_viewer/main.py:30
+#: src/log_viewer/main.py:51
 msgid "Log Viewer"
 msgstr "Loggvisare"
 
-#: src/log_viewer/main.py:35
+#: src/log_viewer/main.py:56
 msgid "Toggle theme"
 msgstr "Växla tema"
 
-#: src/log_viewer/main.py:42
+#: src/log_viewer/main.py:63
 msgid "Export logs"
 msgstr "Exportera loggar"
 
-#: src/log_viewer/main.py:50
+#: src/log_viewer/main.py:71
 msgid "Unit:"
 msgstr "Enhet:"
 
-#: src/log_viewer/main.py:51
+#: src/log_viewer/main.py:72
 msgid "e.g. sshd, NetworkManager"
 msgstr "t.ex. sshd, NetworkManager"
 
-#: src/log_viewer/main.py:54
+#: src/log_viewer/main.py:75
 msgid "Priority:"
 msgstr "Prioritet:"
 
-#: src/log_viewer/main.py:55
+#: src/log_viewer/main.py:76
 msgid "All"
 msgstr "Alla"
 
-#: src/log_viewer/main.py:59
+#: src/log_viewer/main.py:80
 msgid "Since:"
 msgstr "Sedan:"
 
-#: src/log_viewer/main.py:63
+#: src/log_viewer/main.py:84
 msgid "Load"
 msgstr "Läs in"
 
-#: src/log_viewer/main.py:67
+#: src/log_viewer/main.py:88
 msgid "Follow"
 msgstr "Följ"
 
-#: src/log_viewer/main.py:74
+#: src/log_viewer/main.py:95
 msgid "Search:"
 msgstr "Sök:"
 
-#: src/log_viewer/main.py:75
+#: src/log_viewer/main.py:96
 msgid "Filter text..."
 msgstr "Filtrera text..."
 
-#: src/log_viewer/main.py:87
+#: src/log_viewer/main.py:108
 msgid "Priority"
 msgstr "Prioritet"
 
-#: src/log_viewer/main.py:87
+#: src/log_viewer/main.py:108
 msgid "Timestamp"
 msgstr "Tidsstämpel"
 
-#: src/log_viewer/main.py:87
+#: src/log_viewer/main.py:108
 msgid "Message"
 msgstr "Meddelande"
 
-#: src/log_viewer/main.py:198
+#: src/log_viewer/main.py:219
 msgid "Export Logs"
 msgstr "Exportera loggar"
 
-#: src/log_viewer/main.py:234
+#: src/log_viewer/main.py:255
 msgid "translator-credits"
 msgstr "Daniel Nylander <po@danielnylander.se>, 2026."
 
-#: src/log_viewer/main.py:235
+#: src/log_viewer/main.py:256
 msgid "GTK4 journalctl frontend"
 msgstr "Gränssnitt för journalctl för GTK4"
 
-#: src/log_viewer/main.py:237
+#: src/log_viewer/main.py:258
 msgid "Translations"
 msgstr "Översättningar"
+
+#: src/log_viewer/main.py:293
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/log_viewer/main.py:298
+msgid "Welcome to Log Viewer"
+msgstr "Välkommen till Loggvisare"
+
+#: src/log_viewer/main.py:299
+msgid ""
+"View and analyze log files.\n"
+"\n"
+"✓ Real-time log tailing\n"
+"✓ Search and filter\n"
+"✓ Syntax highlighting"
+msgstr ""
+"Visa och analysera loggfiler.\n"
+"\n"
+"✓ Loggning i realtid\n"
+"✓ Sökning och filtrering\n"
+"✓ Syntaxmarkering"
+
+#: src/log_viewer/main.py:300
+msgid "Get Started"
+msgstr "Kom igång"
