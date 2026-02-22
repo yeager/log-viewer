@@ -1,19 +1,25 @@
 # Log Viewer
 
-GTK4/Adwaita journalctl frontend.
+Structured log viewer with filtering and syntax highlighting.
 
-## Features
-- Filter by unit, priority, time period
-- Color coding per severity level
-- Live tail (follow mode)
-- Text search/filter
-- Export filtered logs
-- Dark/light theme toggle
+Built with GTK4/Adwaita. Part of the [Danne L10n Suite](https://github.com/yeager/debian-repo).
 
-## Run
+## Installation
+
+### Debian/Ubuntu
 ```bash
-PYTHONPATH=src python3 -c "from log_viewer.main import main; main()"
+sudo apt install log-viewer
+```
+
+### Fedora/RPM
+```bash
+sudo dnf install log-viewer
 ```
 
 ## License
-GPL-3.0-or-later
+
+GPL-3.0
+
+## Author
+
+Daniel Nylander — [danielnylander.se](https://danielnylander.se)
