@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the log-viewer package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: log-viewer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 06:25+0100\n"
+"POT-Creation-Date: 2026-02-22 17:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,91 +17,91 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/log_viewer/main.py:51
+#: src/log_viewer/main.py:52
 msgid "Log Viewer"
 msgstr ""
 
-#: src/log_viewer/main.py:56
+#: src/log_viewer/main.py:57
 msgid "Toggle theme"
 msgstr ""
 
-#: src/log_viewer/main.py:63
+#: src/log_viewer/main.py:64
 msgid "Export logs"
 msgstr ""
 
-#: src/log_viewer/main.py:71
+#: src/log_viewer/main.py:72
 msgid "Unit:"
 msgstr ""
 
-#: src/log_viewer/main.py:72
+#: src/log_viewer/main.py:73
 msgid "e.g. sshd, NetworkManager"
 msgstr ""
 
-#: src/log_viewer/main.py:75
+#: src/log_viewer/main.py:76
 msgid "Priority:"
 msgstr ""
 
-#: src/log_viewer/main.py:76
+#: src/log_viewer/main.py:77
 msgid "All"
 msgstr ""
 
-#: src/log_viewer/main.py:80
+#: src/log_viewer/main.py:81
 msgid "Since:"
 msgstr ""
 
-#: src/log_viewer/main.py:84
+#: src/log_viewer/main.py:85
 msgid "Load"
 msgstr ""
 
-#: src/log_viewer/main.py:88
+#: src/log_viewer/main.py:89
 msgid "Follow"
 msgstr ""
 
-#: src/log_viewer/main.py:95
+#: src/log_viewer/main.py:96
 msgid "Search:"
 msgstr ""
 
-#: src/log_viewer/main.py:96
+#: src/log_viewer/main.py:97
 msgid "Filter text..."
 msgstr ""
 
-#: src/log_viewer/main.py:108
+#: src/log_viewer/main.py:109
 msgid "Priority"
 msgstr ""
 
-#: src/log_viewer/main.py:108
+#: src/log_viewer/main.py:109
 msgid "Timestamp"
 msgstr ""
 
-#: src/log_viewer/main.py:108
+#: src/log_viewer/main.py:109
 msgid "Message"
 msgstr ""
 
-#: src/log_viewer/main.py:219
+#: src/log_viewer/main.py:220
 msgid "Export Logs"
 msgstr ""
 
-#: src/log_viewer/main.py:255
+#: src/log_viewer/main.py:256
 msgid "translator-credits"
 msgstr ""
 
-#: src/log_viewer/main.py:256
+#: src/log_viewer/main.py:257
 msgid "GTK4 journalctl frontend"
 msgstr ""
 
-#: src/log_viewer/main.py:258
+#: src/log_viewer/main.py:259
 msgid "Translations"
 msgstr ""
 
-#: src/log_viewer/main.py:293
+#: src/log_viewer/main.py:294
 msgid "Welcome"
 msgstr ""
 
-#: src/log_viewer/main.py:298
+#: src/log_viewer/main.py:299
 msgid "Welcome to Log Viewer"
 msgstr ""
 
-#: src/log_viewer/main.py:299
+#: src/log_viewer/main.py:300
 msgid ""
 "View and analyze log files.\n"
 "\n"
@@ -110,6 +110,6 @@ msgid ""
 "✓ Syntax highlighting"
 msgstr ""
 
-#: src/log_viewer/main.py:300
+#: src/log_viewer/main.py:301
 msgid "Get Started"
 msgstr ""
