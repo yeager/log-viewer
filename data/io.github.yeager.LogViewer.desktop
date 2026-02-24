@@ -5,4 +5,5 @@ Exec=log-viewer
 Icon=io.github.yeager.LogViewer
 Terminal=false
 Type=Application
+StartupWMClass=io.github.yeager.LogViewer
 Categories=System;Utility;
