@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Log Viewer
+Name[sv]=Loggvisare
+Comment=System log viewer and analyzer
+Comment[sv]=Visare och analysverktyg för systemloggar
+Exec=log-viewer
+Icon=log-viewer
+Categories=System;GTK;
+Terminal=false
+StartupNotify=true
+StartupWMClass=se.danielnylander.log-viewer
