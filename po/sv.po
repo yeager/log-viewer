@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-09 05:18+0000\n"
+"PO-Revision-Date: 2026-02-18 09:21+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/304966/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/log_viewer/main.py:52 src/log_viewer/main.py:266
+msgid "Log Viewer"
+msgstr "Loggvisare"
+
+#: src/log_viewer/main.py:57
+msgid "Toggle theme"
+msgstr "Växla tema"
+
+#: src/log_viewer/main.py:64
+msgid "Export logs"
+msgstr "Exportera loggar"
+
+#: src/log_viewer/main.py:72
+msgid "Unit:"
+msgstr "Enhet:"
+
+#: src/log_viewer/main.py:73
+msgid "e.g. sshd, NetworkManager"
+msgstr "t.ex. sshd, NetworkManager"
+
+#: src/log_viewer/main.py:76
+msgid "Priority:"
+msgstr "Prioritet:"
+
+#: src/log_viewer/main.py:77
+msgid "All"
+msgstr "Alla"
+
+#: src/log_viewer/main.py:81
+msgid "Since:"
+msgstr "Sedan:"
+
+#: src/log_viewer/main.py:85
+msgid "Load"
+msgstr "Läs in"
+
+#: src/log_viewer/main.py:89
+msgid "Follow"
+msgstr "Följ"
+
+#: src/log_viewer/main.py:96
+msgid "Search:"
+msgstr "Sök:"
+
+#: src/log_viewer/main.py:97
+msgid "Filter text..."
+msgstr "Filtrera text..."
+
+#: src/log_viewer/main.py:109
+msgid "Priority"
+msgstr "Prioritet"
+
+#: src/log_viewer/main.py:109
+msgid "Timestamp"
+msgstr "Tidsstämpel"
+
+#: src/log_viewer/main.py:109
+msgid "Message"
+msgstr "Meddelande"
+
+#: src/log_viewer/main.py:220
+msgid "Export Logs"
+msgstr "Exportera loggar"
+
+#: src/log_viewer/main.py:256
+msgid "translator-credits"
+msgstr "Daniel Nylander <po@danielnylander.se>, 2026."
+
+#: src/log_viewer/main.py:257
+msgid "GTK4 journalctl frontend"
+msgstr "Gränssnitt för journalctl för GTK4"
+
+#: src/log_viewer/main.py:259
+msgid "Translations"
+msgstr "Översättningar"
+
+#: src/log_viewer/main.py:295
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/log_viewer/main.py:300
+msgid "Welcome to Log Viewer"
+msgstr "Välkommen till Loggvisare"
+
+#: src/log_viewer/main.py:301
+msgid ""
+"View and analyze log files.\n"
+"\n"
+"✓ Real-time log tailing\n"
+"✓ Search and filter\n"
+"✓ Syntax highlighting"
+msgstr ""
+"Visa och analysera loggfiler.\n"
+"\n"
+"✓ Loggning i realtid\n"
+"✓ Sökning och filtrering\n"
+"✓ Syntaxmarkering"
+
+#: src/log_viewer/main.py:302
+msgid "Get Started"
+msgstr "Kom igång"
