@@ -6,9 +6,13 @@ from gi.repository import Gtk, Adw, GLib, Gio, Pango
 import subprocess
 import threading
 import gettext
+import locale
 from datetime import datetime
 from log_viewer.accessibility import AccessibilityManager
 
+locale.setlocale(locale.LC_ALL, "")
+gettext.bindtextdomain("log-viewer", "/usr/share/log-viewer/locale")
+gettext.textdomain("log-viewer")
 _ = gettext.gettext
 APP_ID = "io.github.yeager.LogViewer"
 

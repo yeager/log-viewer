@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Log Viewer
+Name[sv]=Loggvisare
 Comment=GTK4 journalctl frontend
+Comment[sv]=Visa systemloggar med journalctl
 Exec=log-viewer
 Icon=io.github.yeager.LogViewer
 Terminal=false
